@@ -1,0 +1,261 @@
+Abyssal Cry						0	0	0
+Ancestral Protector				0	0	0
+Ancestral Warchief				0	0	0
+Animate Guardian				0	0	0
+Animate Weapon					0	0	0
+Arc								0	0	0
+Arctic Breath					0	0	0
+Armageddon Brand				0	0	0
+Ball Lightning					0	0	0
+Bane							0	0	0
+Barrage							0	0	0
+Bear Trap						0	0	0
+Blade Flurry					0	0	0
+Blade Vortex					0	0	0
+Bladefall						0	0	0
+Bladestorm						0	0	0
+Blast Rain						0	0	0
+Blight							0	0	0
+Blink Arrow						0	0	0
+Bodyswap						0	0	0
+Burning Arrow					0	0	0
+Caustic Arrow					0	0	0
+Chain Hook						0	0	0
+Charged Dash					0	0	0
+Cleave							0	0	0
+Cobra Lash						0	0	0
+Cold Snap						0	0	0
+Consecrated Path				0	0	0
+Contagion						0	0	0
+Conversion Trap					0	0	0
+Cremation						0	0	0
+Cyclone							0	0	0
+Dark Pact						0	0	0
+Detonate Dead					0	0	0
+Discharge						0	0	0
+Divine Ire						0	0	0
+Dominating Blow					0	0	0
+Double Strike					0	0	0
+Dual Strike						0	0	0
+Earthquake						0	0	0
+Elemental Hit					0	0	0
+Essence Drain					0	0	0
+Ethereal Knives					0	0	0
+Explosive Arrow					0	0	0
+Explosive Trap					0	0	0
+Fire Trap						0	0	0
+Fireball						0	0	0
+Firestorm						0	0	0
+Flame Dash						0	0	0
+Flame Surge						0	0	0
+Flameblast						0	0	0
+Flamethrower Trap				0	0	0
+Flicker Strike					0	0	0
+Freezing Pulse					0	0	0
+Frenzy							0	0	0
+Frost Blades					0	0	0
+Frost Bomb						0	0	0
+Frostblink						0	0	0
+Frostbolt						0	0	0
+Glacial Cascade					0	0	0
+Glacial Hammer					0	0	0
+Ground Slam						0	0	0
+Heavy Strike					0	0	0
+Herald of Agony					0	0	0
+Herald of Ash					0	0	0
+Herald of Ice					0	0	0
+Herald of Purity				0	0	0
+Herald of Thunder				0	0	0
+Holy Flame Totem				0	0	0
+Ice Crash						0	0	0
+Ice Nova						0	0	0
+Ice Shot						0	0	0
+Ice Spear						0	0	0
+Ice Trap						0	0	0
+Icicle Mine						0	0	0
+Incinerate						0	0	0
+Infernal Blow					0	0	0
+Kinetic Blast					0	0	0
+Lacerate						0	0	0
+Lancing Steel					0	0	0
+Leap Slam						0	0	0
+Lightning Arrow					0	0	0
+Lightning Spire Trap			0	0	0
+Lightning Strike				0	0	0
+Lightning Tendrils				0	0	0
+Lightning Trap					0	0	0
+Lightning Warp					0	0	0
+Magma Orb						0	0	0
+Mirror Arrow					0	0	0
+Molten Strike					0	0	0
+Orb of Storms					0	0	0
+Perforate						0	0	0
+Pestilent Strike				0	0	0
+Plague Bearer					0	0	0
+Power Siphon					0	0	0
+Puncture						0	0	0
+Purifying Flame					0	0	0
+Pyroclast Mine					0	0	0
+Rain of Arrows					0	0	0
+Raise Spectre					0	0	0
+Raise Zombie					0	0	0
+Reave							0	0	0
+Reckoning						0	0	0
+Righteous Fire					0	0	0
+Riposte							0	0	0
+Scorching Ray					0	0	0
+Scourge Arrow					0	0	0
+Searing Bond					0	0	0
+Seismic Trap					0	0	0
+Shattering Steel				0	0	0
+Shield Charge					0	0	0
+Shock Nova						0	0	0
+Shockwave Totem					0	0	0
+Galvanic Arrow					0	0	0
+Siege Ballista					0	0	0
+Siphoning Trap					0	0	0
+Smite							0	0	0
+Soulrend						0	0	0
+Spark							0	0	0
+Spectral Shield Throw			0	0	0
+Spectral Throw					0	0	0
+Split Arrow						0	0	0
+Static Strike					0	0	0
+Storm Brand						0	0	0
+Storm Burst						0	0	0
+Storm Call						0	0	0
+Stormblast Mine					0	0	0
+Summon Carrion Golem			0	0	0
+Summon Chaos Golem				0	0	0
+Summon Flame Golem				0	0	0
+Summon Ice Golem				0	0	0
+Summon Lightning Golem			0	0	0
+Summon Raging Spirit			0	0	0
+Summon Skeletons				0	0	0
+Summon Skitterbots				0	0	0
+Summon Stone Golem				0	0	0
+Sunder							0	0	0
+Sweep							0	0	0
+Tectonic Slam					0	0	0
+Tempest Shield					0	0	0
+Tornado Shot					0	0	0
+Toxic Rain						0	0	0
+Unearth							0	0	0
+Vengeance						0	0	0
+Venom Gyre						0	0	0
+Vigilant Strike					0	0	0
+Viper Strike					0	0	0
+Volatile Dead					0	0	0
+Vortex							0	0	0
+Wave of Conviction				0	0	0
+Whirling Blades					0	0	0
+Wild Strike						0	0	0
+Winter Orb						0	0	0
+Ensnaring Arrow					0	0	0
+Shrapnel Ballista				0	0	0
+Artillery Ballista				0	0	0
+Vaal Arc						0	1	0
+Vaal Blight						0	1	0
+Vaal Cold Snap					0	1	0
+Vaal Fireball					0	1	0
+Vaal Flameblast					0	1	0
+Vaal Ice Nova					0	1	0
+Vaal Lightning Trap				0	1	0
+Vaal Power Siphon				0	1	0
+Vaal Righteous Fire				0	1	0
+Vaal Spark						0	1	0
+Vaal Storm Call					0	1	0
+Vaal Summon Skeletons			0	1	0
+Vaal Ancestral Warchief			0	1	0
+Vaal Earthquake					0	1	0
+Vaal Glacial Hammer				0	1	0
+Vaal Ground Slam				0	1	0
+Vaal Blade Vortex				0	1	0
+Vaal Burning Arrow				0	1	0
+Vaal Cyclone					0	1	0
+Vaal Detonate Dead				0	1	0
+Vaal Double Strike				0	1	0
+Vaal Lightning Strike			0	1	0
+Vaal Rain of Arrows				0	1	0
+Vaal Reave						0	1	0
+Vaal Spectral Throw				0	1	0
+Withering Step					1	0	0
+Wither							1	0	0
+Phase Run						1	0	0
+Blood Rage						1	0	0
+Dash							1	0	0
+Smoke Mine						1	0	0
+Spirit Offering					1	0	0
+Berserk							1	0	0
+Decoy Totem						1	0	0
+Devouring Totem					1	0	0
+Enduring Cry					1	0	0
+Immortal Call					1	0	0
+Rallying Cry					1	0	0
+Rejuvenation Totem				1	0	0
+Steelskin						1	0	0
+War Banner						1	0	0
+Desecrate						1	0	0
+Bone Offering					1	0	0
+Brand Recall					1	0	0
+Molten Shell					1	0	0
+Convocation						1	0	0
+Flesh Offering					1	0	0
+Summon Holy Relic				0	0	0
+Frost Wall						1	0	0
+Dread Banner					1	0	0
+Grace							1	0	0
+Haste							1	0	0
+Hatred							1	0	0
+Arctic Armour					1	0	0
+Precision						1	0	0
+Purity of Ice					1	0	0
+Anger							1	0	0
+Wrath							1	0	0
+Zealotry						1	0	0
+Blood and Sand					1	0	0
+Flesh and Stone					1	0	0
+Pride							1	0	0
+Determination					1	0	0
+Purity of Fire					1	0	0
+Vitality						1	0	0
+Discipline						1	0	0
+Malevolence						1	0	0
+Purity of Elements				1	0	0
+Purity of Lightning				1	0	0
+Frostbite						1	0	0
+Flammability					1	0	0
+Clarity							1	0	0
+Despair							1	0	0
+Conductivity					1	0	0
+Elemental Weakness				1	0	0
+Enfeeble						1	0	0
+Warlord's Mark					1	0	0
+Assassin's Mark					1	0	0
+Vulnerability					1	0	0
+Punishment						1	0	0
+Temporal Chains					1	0	0
+Poacher's Mark					1	0	0
+Projectile Weakness				1	0	0
+Vaal Clarity					1	1	0
+Vaal Discipline					1	1	0
+Vaal Impurity of Lightning		1	1	0
+Vaal Impurity of Fire			1	1	0
+Vaal Molten Shell				1	1	0
+Vaal Grace						1	1	0
+Vaal Haste						1	1	0
+Vaal Impurity of Ice			1	1	0
+Blade Blast						0	0	0
+Kinetic Bolt					0	0	0
+Stormbind						0	0	0
+Icestorm						0	0	1
+Spellslinger				 	0	0	0
+Arcane Cloak					1	0	0
+General's Cry					0	0	0
+Intimidating Cry				1	0	0
+Seismic Cry						1	0	0
+Ancestral Cry					0	0	0
+Penance Brand					1	0	0
+Wintertide Brand				1	0	0
+Arcanist Brand					0	0	0
+Earthshatter					0	0	0
